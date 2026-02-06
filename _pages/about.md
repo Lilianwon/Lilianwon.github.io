@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is lilian Won.
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My name is Lilian won. My core competencies cover content creation, video editing, audio recording, photo editing and event hosting.
+I am proficient in leveraging various AI tools for creative outputs, including general AI tools such as ChatGPT, Grok, Doubao, Jimeng, vidu ai and Gemini, as well as Pokee.ai which specializes in text and video generation. For AI music creation, I am skilled in using SUNO, MakeBestMusic and Sonauto.
+In terms of design, I am adept at using Figma for poster and meme layout design, as well as secondary content creation. I also have strong cultural adaptability, and am able to create content that resonates with audiences from specific cultural backgrounds based on their preferences and needs.
+You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
